@@ -10,5 +10,3 @@
 - ⚡ I make useful videos for GuidedHacking.com, and plan to release further anti-cheat bypasses, or techniques there. Feel free to visit!
 
 ![dretax's github stats](https://github-readme-stats.vercel.app/api?username=dretax&show_icons=true&hide_border=true&count_private=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dretax&hide=tex,html&theme=dark)](https://github.com/dretax/github-readme-stats)
