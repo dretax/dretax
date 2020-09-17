@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/dretax/dretax.svg)](http://hits.dwyl.com/dretax/dretax)
-
 ### Hi there 👋 I'm **DreTaX**, mainly interested in reverse engineering.
 
 - 🔭 I’m currently working on various kernel projects, researching bypasses, and anti-cheat methods.
