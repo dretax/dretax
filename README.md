@@ -1,11 +1,20 @@
-### Hi there 👋 I'm **DreTaX**, mainly interested in reverse engineering.
+### 👋 Hello, I'm DreTaX, a seasoned Software Engineer deeply passionate about reverse engineering and intricate aspects of software development.
 
-- 🔭 I’m currently working on various kernel projects, researching bypasses, and anti-cheat methods. This mostly includes reversing games, developing undetected hacks for almost all of the existing anti-cheats out there. Recently I also took the old challenge of myself, and began developing an anti-cheat with my trusted fellow hacker friends.
-- 💻 In the past, and present I used to, and still maintain various projects like modding platforms, which could enchance games. I do complex .NET related projects at my current full-time job.
-- 👯 I’m also highly interested in game development, anything UnityEngine, or Unreal Engine related. I'm heavily experienced with mono.
-- 📁 I have experience in creating, and covering most parts with a usermode anti-cheat in a UnityEngine game environment.
-- 📫 You may reach out to me via email, which you can find near by profile description.
-- ⚡ I make useful videos for GuidedHacking.com, and plan to release further anti-cheat bypasses, or techniques there. I recently took a break of releasing stuffs, but I do plan on making time for my lovely place.
+🔭 Currently, my focus revolves around kernel projects, researching bypasses, and crafting effective anti-cheat solutions. I excel in the realm of reversing games, developing undetected hacks for a myriad of anti-cheats.
+
+💻 In my professional journey, I've successfully managed and contributed to various projects, including modding platforms that enhance gaming experiences. My expertise extends to complex .NET projects. I also thrive and currently contribute as a full-time Security Engineer at Schoolyear.nl.
+
+👯 My interests also extend to game development, particularly in Unity and Unreal Engine, where my extensive experience with mono proves beneficial.
+
+📁 Proficient in creating user-mode anti-cheat solutions within the UnityEngine game environment, I continually push the boundaries of what's possible.
+
+⚡ As a respected member at GuidedHacking.com, I contribute valuable content through insightful videos and plan to release further anti-cheat bypasses and techniques in the future.
+
+📧 Feel free to reach out via email (you can find it in my profile description). I'm always open to collaborations, discussions, or inquiries about my work.
+
+💡 Committed to a pursuit of excellence, I approach challenges with a team-player mindset, fostering innovation through effective communication and collaboration.
+
+🌐 Always learning, adapting, and evolving in the rapidly changing landscape of software engineering. My GitHub is a reflection of my dedication to the craft, showcasing projects that encapsulate my diverse skill set.
 
 <p align="center" >  
   <img  src="https://github-readme-stats.vercel.app/api?username=dretax&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
